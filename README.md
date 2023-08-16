@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://yeasin-shakil.netlify.app/](https://yeasin-shakil.netlify.app/)
 
-- 💬 Ask me about **react js**
 
 - 📫 How to reach me **shakilrock1998@gmail.com**
 
